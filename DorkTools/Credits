@@ -1,0 +1,49 @@
+"""
+Advanced Dorking Tool
+
+Author: Rayhan Dzaky Al Mubarok
+GitHub: https://github.com/ZetaGo-Aurum?tab=repositories
+Version: 1.0.0
+License: Apache License 2.0
+
+Description:
+The Advanced Dorking Tool is a powerful utility designed to perform intricate searches using dorking techniques to uncover various types of vulnerabilities and sensitive information across websites. By automating the generation of dork queries and parsing Google search results, this tool aids security professionals and enthusiasts in conducting thorough reconnaissance and vulnerability assessments.
+
+Features:
+- **SQL Injection Scanner**: Identifies potential SQL injection points in web applications.
+- **Exposed Files Scanner**: Locates publicly accessible documents such as PDFs, XLS, DOC, and TXT files.
+- **Sensitive Directories Scanner**: Discovers exposed directories and administrative panels like /admin, /backup, and /wp-admin.
+- **Open Ports Scanner**: Detects systems with open ports (e.g., 22, 80, 443) for network reconnaissance.
+- **Dork URL Scanner**: Finds specific URL patterns such as login, register, and signin pages.
+- **Dork Website Scanner**: Maps website structures by locating homepages and site-specific paths.
+- **Dork Password Scanner**: Searches for exposed passwords within various file types.
+- **Dork Personal Data Scanner**: Uncovers personal information like phone numbers, emails, and addresses.
+- **Custom Search Capability**: Allows users to create bespoke dork queries tailored to specific needs.
+- **Smart Dork Generation**: Enhances search effectiveness by generating intelligent dork variations based on user input.
+
+Usage:
+1. **Select Language**: Choose your preferred language (English or Indonesian) at the startup.
+2. **Main Menu Navigation**: From the main menu, select the type of scan you wish to perform.
+3. **Configure Scan Settings**:
+   - **Target Domain**: Specify a target domain or leave it empty for a global scan.
+   - **Custom Subdomain**: (Optional) Define a custom subdomain to narrow down the search.
+   - **Custom Content**: (For Custom Search) Add specific content filters to refine the search.
+   - **Smart Dork Query**: Input a smart query to generate multiple search variations for enhanced results.
+4. **Execute Scan**: Initiate the scanning process, which will display real-time progress with a loading animation.
+5. **View Results**: Upon completion, view the results in a formatted table within the console.
+6. **Save Results**: Export the scan results to a JSON file for further analysis and record-keeping.
+
+Acknowledgments:
+- **BeautifulSoup**: Utilized for efficient HTML parsing and data extraction.
+- **Requests**: Employed for handling HTTP requests seamlessly.
+- **Tabulate**: Used to present data in well-formatted tables within the console.
+- **Threading**: Implemented to enable concurrent operations, enhancing the tool's performance.
+- **Ittertools**: Leveraged for creating efficient looping constructs, especially in generating search patterns.
+
+Contributions:
+Contributions are welcome! If you wish to enhance the tool or fix any issues, please fork the repository and submit a pull request. Your contributions help improve the tool for the entire community.
+
+Disclaimer:
+This tool is intended for educational and authorized security testing purposes only. Unauthorized scanning or probing of websites can be illegal and unethical. Always ensure you have proper authorization before using this tool on any network or web application.
+
+"""
