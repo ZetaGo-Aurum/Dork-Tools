@@ -30,7 +30,7 @@ pkg install python git -y
 ### Step 3: Clone the Repository
 
 ```bash
-git clone https://github.com/ZetaGo-Aurum/Advanced-Dorking-Tool.git
+git clone https://github.com/ZetaGo-Aurum/Dork-Tools.git
 ```
 
 ### Step 4: Navigate to the Project Directory
@@ -69,7 +69,7 @@ sudo apt install python3 python3-pip git -y
 ### Step 3: Clone the Repository
 
 ```bash
-git clone https://github.com/ZetaGo-Aurum/Advanced-Dorking-Tool.git
+git clone https://github.com/ZetaGo-Aurum/Dork-Tools.git
 ```
 
 ### Step 4: Navigate to the Project Directory
