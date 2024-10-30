@@ -36,7 +36,7 @@ git clone https://github.com/ZetaGo-Aurum/Dork-Tools.git
 ### Step 4: Navigate to the Project Directory
 
 ```bash
-cd Advanced-Dorking-Tool
+cd DorkTools
 ```
 
 ### Step 5: Install Python Dependencies
@@ -75,7 +75,7 @@ git clone https://github.com/ZetaGo-Aurum/Dork-Tools.git
 ### Step 4: Navigate to the Project Directory
 
 ```bash
-cd Advanced-Dorking-Tool
+cd DorkTools
 ```
 
 ### Step 5: Install Python Dependencies
