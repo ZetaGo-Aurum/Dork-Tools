@@ -35,6 +35,14 @@ git clone https://github.com/ZetaGo-Aurum/Dork-Tools.git
 
 ### Step 4: Navigate to the Project Directory
 
+#### Directory 1
+
+```bash
+cd Dork-Tools
+```
+
+#### Directory 2
+
 ```bash
 cd DorkTools
 ```
@@ -73,6 +81,14 @@ git clone https://github.com/ZetaGo-Aurum/Dork-Tools.git
 ```
 
 ### Step 4: Navigate to the Project Directory
+
+#### Directory 1
+
+```bash
+cd Dork-Tools
+```
+
+#### Directory 2
 
 ```bash
 cd DorkTools
